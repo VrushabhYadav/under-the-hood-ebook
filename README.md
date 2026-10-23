@@ -1,2 +1,26 @@
-# under-the-hood-ebook
-Under the Hood, Issue 01 (Oct 2026): a student e-magazine on systems performance and cybersecurity, covering Rust, eBPF, LSM-trees vs B+ trees, post-quantum crypto, deepfake detection and Zero Trust.
+Under the Hood: Issue 01 (October 2026)
+Fast enough to matter. Safe enough to trust.
+Under the Hood is a student-run e-magazine that explains modern systems and security topics from first principles. Issue 01 pairs two ideas: how fast systems run, and whether we can trust them.
+Contents
+Systems, Infrastructure & Performance
+The Rust Migration: rewriting the modern systems stack
+eBPF: programmable Linux kernels without modifying source code
+Database internals: LSM-trees vs B+ trees in real-world workloads
+Cybersecurity & Identity
+4. Post-quantum cryptography: preparing for "Q-Day"
+5. Deepfake detection: audio cloning and multi-modal synthetic media
+6. Zero Trust architecture in modern cloud deployments
+Read the issue
+Under_the_Hood_Issue01_Final.pdf (17 pages)
+Authors and contributors
+Name
+Roll No.
+Yogiraj Kulkarni
+B-03
+Arnav Nandanwar
+B-07
+Soham Pawar
+B-08
+Vrushabh Yadav
+B-32
+Computer Science and Business Systems (CSBS), KIT's College of Engineering, Kolhapur.
